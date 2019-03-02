@@ -1,0 +1,57 @@
+baseURL = "https://blog.brian.su"
+languageCode = ""
+title = "BB's Blog"
+theme = "LeaveIt"
+
+paginate = 10
+enableEmoji = true
+enableRobotsTXT = true
+googleAnalytics = "UA-127507120-3"
+
+preserveTaxonomyNames = true
+
+[blackfriday]
+  hrefTargetBlank = true
+  nofollowLinks = true
+  noreferrerLinks = false
+
+[Permalinks]
+ posts = "/posts/:slug/"
+
+[menu]
+  [[menu.main]]
+    name = "Blog"
+    url = "/posts/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Categories"
+    url = "/categories/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 3
+
+[params]
+    since = 2019
+    author = "Brian Su"                           # Author's name
+    avatar = "https://brian.su/avatar.jpg"           # Author's avatar
+    subtitle = "BB's Blog - A blog by a happy programmer"         # Subtitle
+    cdn_url = ""           # Base CDN URL
+    home_mode = "other" # post or other
+
+    google_verification = ""
+   
+    description = "BB's Blog - A blog by a happy programmer." # site description
+    keywords = "" # site keywords
+
+    license= 'This article is licenced under [CC BY-NC-SA 4.0 ![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/).'
+
+[params.social]
+    GitHub = "brianbbsu"
+    Email   = "brianbb.su@gmail.com"
+    Facebook = "brianbb.su"
+    Telegram = "briansu"
+
