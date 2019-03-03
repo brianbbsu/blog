@@ -5,7 +5,6 @@ tags:
   - Test
 categories:
   - 廢文
-description: test
 slug: hello-world
 ---
 
