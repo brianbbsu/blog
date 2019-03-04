@@ -35,6 +35,11 @@ disqusShortname = "blog-brian-su"
     url = "/tags/"
     weight = 3
 
+  [[menu.main]]
+    name = "About Me"
+    url = "https://brian.su/about-me/"
+    weight = 4
+
 [params]
     since = 2019
     author = "Brian Su"                           # Author's name
