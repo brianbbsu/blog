@@ -5,7 +5,7 @@ theme = "LeaveIt"
 
 paginate = 10
 enableEmoji = true
-enableRobotsTXT = true
+enableRobotsTXT = false
 
 preserveTaxonomyNames = true
 enableGitInfo = true
