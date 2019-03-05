@@ -9,7 +9,7 @@ enableRobotsTXT = false
 
 preserveTaxonomyNames = true
 enableGitInfo = true
-disqusShortname = "blog-brian-su"
+disqusShortname = "" #"blog-brian-su"
 
 [blackfriday]
   hrefTargetBlank = true
