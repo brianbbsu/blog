@@ -12,6 +12,8 @@ slug: hello-world
 
 This is an article to test the blog system.
 
+<!--more-->
+
 # This is a Test
 
 ## First, let's test some English

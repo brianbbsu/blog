@@ -46,7 +46,7 @@ disqusShortname = "" #"blog-brian-su"
     avatar = "https://brian.su/avatar.jpg"           # Author's avatar
     subtitle = "BB's Blog - A blog by a happy programmer"         # Subtitle
     cdn_url = ""           # Base CDN URL
-    home_mode = "other" # post or other
+    home_mode = "post" # post or other
 
     google_verification = ""
     googleAnalytics = "UA-127507120-3"
